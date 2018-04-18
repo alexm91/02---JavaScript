@@ -25,6 +25,7 @@ var usuario = {
     apellido: 'Morales',
     cedula: '1721768339',
     edad: 26,
+    edadAlCuadrado: potenciaDeDosDeUnNumero(this.edad),
     imprimir: function(){
         console.log(this.nombre +' '+ this.apellido+ ' '+ this.edad);
     }
@@ -48,7 +49,9 @@ var arreglo =[
     {
         nombre: 'Alex'
     },
-    [1,2,3]
+    [1,2,3],
+    usuario.imprimir(),
+    usuario.imprimir
 ];
 console.log(arreglo);
 
