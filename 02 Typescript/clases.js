@@ -52,7 +52,8 @@ var alexDos = new UsuarioDos('Javier', true, 29);
 console.log(alexDos);
 console.log(alexDos.imprimirUsuario('Hola soy goku'));
 var carla = {
-    nombre: '',
+    nombre: 'Carlos',
     casado: false,
     edad: 30
 };
+console.log(carla);

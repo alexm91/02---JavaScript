@@ -55,7 +55,7 @@ console.log(alexDos);
 console.log(alexDos.imprimirUsuario('Hola soy goku'));
 
 let carla: UsuarioTres = {
-    nombre: '',
+    nombre: 'Carlos',
     casado: false,
     edad: 30
 };
@@ -63,4 +63,6 @@ interface UsuarioTres {
     nombre:string;
     casado?:boolean;
     edad:number;
+    imprimir?(saludo:string):string;
 }
+console.log(carla);
