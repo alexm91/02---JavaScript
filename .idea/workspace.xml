@@ -14,10 +14,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="clases.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="clases.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 Typescript/clases.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="469">
               <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
             </state>
           </provider>
@@ -26,8 +26,26 @@
       <file leaf-file-name="clases.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02 Typescript/clases.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-353">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="-1265">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="operadores.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02 Typescript/operadores.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="operadores.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02 Typescript/operadores.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -52,6 +70,7 @@
         <option value="$PROJECT_DIR$/01 JavaScript/Variables.js" />
         <option value="$PROJECT_DIR$/02 Typescript/clases.js" />
         <option value="$PROJECT_DIR$/02 Typescript/clases.ts" />
+        <option value="$PROJECT_DIR$/02 Typescript/operadores.ts" />
       </list>
     </option>
   </component>
@@ -62,17 +81,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="66" />
-    <option name="y" value="23" />
+    <option name="x" value="12" />
+    <option name="y" value="57" />
     <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="height" value="994" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,10 +114,17 @@
               <item name="02 Typescript" type="462c0819:PsiDirectoryNode" />
               <item name="clases.ts" type="620a8d5e:NestingTreeNode" />
             </path>
+            <path>
+              <item name="02---JavaScript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02---JavaScript" type="462c0819:PsiDirectoryNode" />
+              <item name="02 Typescript" type="462c0819:PsiDirectoryNode" />
+              <item name="operadores.ts" type="620a8d5e:NestingTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,26 +161,27 @@
       <option name="presentableId" value="Default" />
       <updated>1524071645908</updated>
       <workItem from="1524071647016" duration="3029000" />
-      <workItem from="1524673236715" duration="3935000" />
+      <workItem from="1524673236715" duration="3998000" />
+      <workItem from="1525277841743" duration="4229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6964000" />
+    <option name="totallyTimeSpent" value="11256000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="23" width="1400" height="1000" extended-state="0" />
+    <frame x="12" y="57" width="1400" height="994" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="TypeScript" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32924336" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33127573" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -164,6 +190,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +198,7 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/02 Typescript/clases.js" />
+        <option value="$PROJECT_DIR$/02 Typescript/operadores.js" />
       </list>
     </option>
   </component>
@@ -178,6 +206,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/02 Typescript/clases.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2109">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Typescript/clases.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01 JavaScript/Variables.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="740">
@@ -192,24 +234,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01 JavaScript/Variables.js">
+    <entry file="file://$PROJECT_DIR$/02 Typescript/clases.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state relative-caret-position="-1265">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02 Typescript/clases.js">
+    <entry file="file://$PROJECT_DIR$/01 JavaScript/Variables.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-353">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="-1434">
+          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02 Typescript/clases.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="469">
           <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Typescript/operadores.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="42" column="3" selection-start-line="42" selection-start-column="3" selection-end-line="42" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02 Typescript/operadores.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
         </state>
       </provider>
     </entry>
